@@ -1,6 +1,6 @@
 # godot_tictactoe
 
-Simple tictactoe algorithm made in godot.
+Simple tictactoe game made in godot.
 
 ## Artificial Inteligence
 For the AI minimax algorithm was implemented with alpha-beta pruning to optimize it
